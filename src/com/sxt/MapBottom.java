@@ -121,7 +121,7 @@ public class MapBottom {
                         GameUtil.SQUARE_LENGTH*3,
                         null
                 );
-                GameUtil.drawWord(g,"你宁愿玩破扫雷都不学英语",GameUtil.OFFSET+(GameUtil.Map_W-9)*GameUtil.SQUARE_LENGTH-10,3*GameUtil.OFFSET+GameUtil.Map_H*GameUtil.SQUARE_LENGTH+20,20,Color.RED);
+                GameUtil.drawWord(g,"你宁愿玩这破扫雷都不学英语",GameUtil.OFFSET+(GameUtil.Map_W-9)*GameUtil.SQUARE_LENGTH-10,3*GameUtil.OFFSET+GameUtil.Map_H*GameUtil.SQUARE_LENGTH+20,20,Color.RED);
                 break;
             case 2:
                 g.drawImage(
